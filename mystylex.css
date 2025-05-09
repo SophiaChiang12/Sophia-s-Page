@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgba(244, 241, 235, 0.584);
+}
+
+.test1 {
+    height: 300px;
+    background-color: #e0c4ce;
+    color:#e0c4ce
+}
+
+.test2 {
+    height: 300px;
+    background-color: #b04f67;
+    color: #b04f67;
+}
