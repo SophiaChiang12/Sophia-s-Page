@@ -65,6 +65,11 @@ button.hover {
   color: black;
 }
 
+.gif {
+  width: cover;
+  height: cover;
+}
+
 ul {
   list-style: none
 }
